@@ -3,4 +3,4 @@ Este é um desafio do bootcamp da NTTDATA Android Developer (Kotlin) - Desafio d
 
 ### Links Úteis
 
-[Sintaxe Básica do Markdown] (https://www.markdownguide.org/)
+[Sintaxe Básica do Markdown](https://www.markdownguide.org/)
