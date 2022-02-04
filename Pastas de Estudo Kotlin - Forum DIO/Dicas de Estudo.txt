@@ -1,0 +1,13 @@
+## **Programação Orientada ao Objeto**
+
+Tema é extremamente importante para quem deseja seguir os estudos em Android
+
+- Kotlin que estavam no Bootcamp da NTTDATA,  serão disponibilizados para os estudos na aba cursos: https://web.digitalinnovation.one/home
+
+- Curso de POO na Udemy, instituição paga: https://www.udemy.com/course/desenvolvimento-android-com-kotlin/learn/lecture/22689643?start=210#questions
+- Curso de POO na Alura, instituição paga: https://cursos.alura.com.br/formacao-kotlin
+
+Há também cursos sobre Kotlin, Java e POO no youtube que são de grande ajuda, como os do canal Thiago Aguiar https://www.youtube.com/watch?v=r_6Ku38sA-c&t=11746s sobre Kotlin.
+
+
+
