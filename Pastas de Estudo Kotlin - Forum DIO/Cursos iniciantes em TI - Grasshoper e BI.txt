@@ -1,0 +1,5 @@
+### Bi e o Grasshoper
+
+Para começar a entender de maneira didática a programação estruturada, vale a pena o curso disponibilizado pela empresa Google de forma gratuita chamado Grasshoper e em português, disponivel em: https://grasshopper.app/pt_br/
+
+Outro importante porém já um pouco avançado é o curso de Business Intelligence fornecido pela Microsoft em: https://powerbi.microsoft.com/pt-br/getting-started-with-power-bi/.
