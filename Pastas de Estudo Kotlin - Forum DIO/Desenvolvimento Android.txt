@@ -1,0 +1,17 @@
+# Sobre Desenvolvimento Mobile
+
+### Desenvolviento Nativo
+
+- Um único código gera uma aplicação para um sistema operacional específico, e a vantagem é a possibilidade de se aprofundar no aplicativo, rodar em background, sensores, etc.
+
+
+
+### Desenvolvimento Hibrido
+
+- Um único código roda Android e IOS, vantagem, é mais barato porém não permite aprofundar em rodar no background, sensores, etc.
+
+
+
+#### Para Melhor entendimento sobre Android
+
+- Consultar o site que contém toda documentação sobre [Android](developer.android.com/docs).
